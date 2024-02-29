@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MidnightRambo
-- 👀 I’m interested in Economics
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Economics & Data Engineering
+- 🌱 I’m currently learning Microsoft Fabric 
+- 💞️ I’m looking to collaborate on Data Engineering projects 
 - 📫 How to reach me ...
 
 <!---
